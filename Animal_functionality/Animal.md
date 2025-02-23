@@ -1,10 +1,9 @@
 # Animal Information
 
-## A dog
+## A cat
 
-Isn't this the cutest dog!
+This is the cat that rules the house!
 
-![A cartoon of a dog](../dog.png)
+![A cartoon of a cat](../cat.png)
 
-Its name is Rover.
-
+Its name is Socks
